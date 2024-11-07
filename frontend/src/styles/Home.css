@@ -1,6 +1,7 @@
 /* Container for the whole page */
 div {
     font-family: Arial, sans-serif;
+    background-color: aqua;
   }
   
   /* Styles for the notes section */
